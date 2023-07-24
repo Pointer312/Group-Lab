@@ -11,7 +11,7 @@ Scissors beats Paper
 Paper beats Rock
 
 
-1. Once the game is opened, it will show how the game works (circular relationship) and provide player to choose between three options (Rock, Paper, Scissors). Could have player to type R/r = Rock, P/p = Paper, S/s = Scissors
+1. Once the game is opened, it will show how the game works (circular relationship) and provide player to choose between three options (Rock, Paper, Scissors). Could have player to type r = Rock, p = Paper, s = Scissors
 
 2. Once the player have chosen, the computer/AI player randomly chooses between the three options
 
