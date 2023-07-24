@@ -23,7 +23,7 @@ def computer_choices():
     return random.choice(["p","r","s"])
 
 def system_check_winner(user_choice, computer_choice):
-    if user_choice = computer_choice:
+    if user_choice == computer_choice:
             return "Both sides have tied !"
     elif user_choice == "s":
         return "You beat the opponent !" if computer_choice == "p" else "Sorry you lost !"
