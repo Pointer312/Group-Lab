@@ -1,6 +1,6 @@
 # Group-Lab
 
-###***Game Logic***
+#***Game Logic***
 
 We are going to play Rock, Paper, and Scissors. These elements are in a circular relationship.
 
@@ -24,6 +24,6 @@ Paper beats Rock
 6. If user has types y, it goes back to step 1. if user has typed n, it prompts short good-bye display.
 
 
-###***Role***
+#***Role***
 
 This project was made by a single person. I am responsible for planning, designing, development, QA testing, and Deploying
