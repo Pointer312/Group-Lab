@@ -1,4 +1,21 @@
-This is command used to clone my repository
+#This is command used to clone my repository
 
-Command: sudo git clone https://github.com/Pointer312/Group-Lab.git
+Command: git clone https://github.com/Pointer312/Group-Lab.git
 
+#This is command used to create a new branch
+
+Command: git branch Iteration1
+
+#This is command to switch to my new branch
+
+Command: git checkout Iteration1
+
+#These are commands to commit changes
+
+git add .
+
+git commit -m "(comment)"
+
+#This is the command to push my changes
+
+git push
