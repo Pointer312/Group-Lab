@@ -1,0 +1,7 @@
+#This is command to create a new branch
+
+git branch Iteration2
+
+#this is command to switch to a new branch
+
+git checkout Iteration2
