@@ -1,0 +1,13 @@
+This is the command that I used to merge.
+
+First, 
+
+git checkout main
+
+Next,
+
+git merge ITeration2
+
+finally,
+
+git push
