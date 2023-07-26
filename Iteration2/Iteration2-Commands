@@ -5,3 +5,13 @@ git branch Iteration2
 #this is command to switch to a new branch
 
 git checkout Iteration2
+
+#These are commands to commit changes
+
+git add .
+
+git commit -m "(comment)"
+
+#This is the command to push my changes
+
+git push
